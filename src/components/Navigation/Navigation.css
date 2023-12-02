@@ -9,11 +9,11 @@
 
 #nav-link:visited {
   text-decoration: none;
-  color: #ebdfcc;
+  color:  #0a0a0a;
 }
 
 #nav-link.active {
-  color: #db791a;
+  color:  #0a0a0a;
   display: flex;
   justify-content: end;
 }
