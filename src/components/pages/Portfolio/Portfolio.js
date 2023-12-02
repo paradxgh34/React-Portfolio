@@ -16,8 +16,8 @@ export function Project({ project }) {
     <Grid item xs={4} style={{ display: "flex", justifyContent: "center" }}>
       <Card sx={{ maxWidth: 345 }} style={{ backgroundColor: "floralwhite" }}>
         <CardMedia
-          component="img"
-          alt="displayed projects with associated links"
+          component=""
+          alt=""
           height="140"
           image={project.imageLink}
         />
