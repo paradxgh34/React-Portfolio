@@ -7,8 +7,8 @@ export const projects = [
       "",
     imageLink:
       "",
-    liveLink: "https://eeast.github.io/Dude-Wheres-My-Show/",
-    gitHub: "https://github.com/rmessett15/Dude-Wheres-My-Show",
+    liveLink: "https://github.com/paradxgh34/Text-Editor",
+    gitHub: "https://github.com/paradxgh34/Text-Editor",
   },
   {
     projectTitle: "Note Taker",
@@ -16,8 +16,8 @@ export const projects = [
       "",
     imageLink:
       "",
-    liveLink: "http://www.fusionfables.com/",
-    gitHub: "https://github.com/rmessett15/Fusion-Fables",
+    liveLink: "https://github.com/paradxgh34/Note-Taker5",
+    gitHub: "https://github.com/paradxgh34/Note-Taker5",
   },
   {
     projectTitle: "Logo Maker",
@@ -25,8 +25,8 @@ export const projects = [
       "",
     imageLink:
       "",
-    liveLink: "https://mvc-tech-blog15.herokuapp.com/",
-    gitHub: "https://github.com/rmessett15/MVC-Tech-Blog",
+    liveLink: "https://github.com/paradxgh34/logo-generator",
+    gitHub: "https://github.com/paradxgh34/logo-generator",
   },
   {
     projectTitle: "JAVA Script Code Quiz",
@@ -34,8 +34,8 @@ export const projects = [
       "",
     imageLink:
       "",
-    liveLink: "https://rmessett15.github.io/Coding-Quiz/",
-    gitHub: "https://github.com/rmessett15/Coding-Quiz",
+    liveLink: "https://github.com/paradxgh34/codequiz123",
+    gitHub: "https://github.com/paradxgh34/codequiz123",
   },
   {
     projectTitle: "Weather Dashboard",
@@ -43,8 +43,8 @@ export const projects = [
       "",
     imageLink:
       "",
-    liveLink: "https://rmessett15.github.io/Weather-Dashboard/",
-    gitHub: "https://github.com/rmessett15/Weather-Dashboard",
+    liveLink: "https://github.com/paradxgh34/Weather-Dashboard",
+    gitHub: "https://github.com/paradxgh34/Weather-Dashboard",
   },
   {
     projectTitle: "Password Generator",
@@ -52,8 +52,8 @@ export const projects = [
       "",
     imageLink:
       "",
-    liveLink: "https://rmessett15.github.io/My-First-Website/",
-    gitHub: "https://github.com/rmessett15/My-First-Website",
+    liveLink: "https://github.com/paradxgh34/Password-Generator",
+    gitHub: "https://github.com/paradxgh34/Password-Generator",
   },
 
 ];
