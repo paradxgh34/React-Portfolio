@@ -14,7 +14,7 @@ export default function Resume() {
       <div>
         <a
           href={PdfFile}
-          download="Ryan Messett Resumé"
+          download="Howard Pifer Resumé"
           target="_blank"
           style={{
             display: "flex",
